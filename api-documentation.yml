@@ -3,7 +3,7 @@
   servers:
     - url: http://localhost:3000
       description: Local Server
-  info:
+  
     title: Documentación de APIs de Facturación Electrónica
     description: |
       # Introducción
